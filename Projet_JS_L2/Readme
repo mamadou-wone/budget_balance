@@ -1,0 +1,8 @@
+1- Je doit recupérer les 2 images consecutives aprés les clicks
+*)on doit avoir 2 variables qui contiennent les resultat;
+
+
+2 - On doit les comparer
+3- S'il sont différents ils doivent automatiquement se refermer
+4 - Sinon on doit les laisser afficher
+5- Et on continue
